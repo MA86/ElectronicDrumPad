@@ -1,0 +1,30 @@
+/* Custom CSS file */
+
+#drum-machine {
+  background-color: aliceblue;
+  border: 8px solid Gold;
+  border-radius: 30px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.19),
+    8px 8px 9px rgba(0, 0, 0, 0.25);
+  margin: 15% 15% 15% 15%;
+  padding: 1%;
+}
+
+.display {
+  background-color: LightGray;
+  border: 3px solid Gray;
+  margin: 14px auto 14px auto;
+  font-family: "Turret Road", cursive;
+  font-size: 32px;
+}
+
+.drumpad {
+  margin: 1%;
+}
+
+/* Remove the outline from secondary button */
+.btn:focus,
+.btn:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
