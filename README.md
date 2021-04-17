@@ -2,11 +2,11 @@
 
 Built a fun web-app that can be used to play drums.
 
-# Technologies Used:
+# Technologies Used
 
 JavaScript (React & JSX), CSS (Bootstrap), and HTML.
 
-# Demonstration:
+# Demonstration
 
 Try this web-app yourself, click on this [link](https://ma86.github.io/ElectronicDrumPad/) to play!
 
