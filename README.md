@@ -8,5 +8,5 @@ JavaScript (React & JSX), CSS (Bootstrap), and HTML.
 
 # Demonstration:
 
-Try this web-app yourself. Click on this [link](https://ma86.github.io/ElectronicDrumPad/) to play!
+Try this web-app yourself, click on this [link](https://ma86.github.io/ElectronicDrumPad/) to play!
 
